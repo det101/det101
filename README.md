@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <!--
-**det101/det101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**caishunfeng/caishunfeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Xiaolong Lu 👋
+
+- 🔭 I’m currently working on ctyun
+- 🌱 I’m currently learning Dolphinscheduler and SeaTunnel
+- I’m learning about Open Source
+- I am [Apache Linkis](https://github.com/apache/linkis) Committer
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=det101&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
