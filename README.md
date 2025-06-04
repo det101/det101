@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ctyun
 - 🌱 I’m currently learning Dolphinscheduler and SeaTunnel
-- I’m learning about Open Source
-- I am [Apache Linkis](https://github.com/apache/linkis) Committer
+- I’m learning about Open Source  [Apache Linkis](https://github.com/apache/linkis) [Apache Dolphinscheduler](https://github.com/apache/dolphinscheduler) 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=det101&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
